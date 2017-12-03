@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Pfannkuchen",
+        "ingredients": [{
+            "name": "Mehl",
+            "amount": 400,
+            "unit": "g"
+        }, {
+            "name": "Milch",
+            "amount": 500,
+            "unit": "mL"
+        }, {
+            "name": "Eier",
+            "amount": 4,
+            "unit": "stk"
+        }, {
+            "name": "Bacon",
+            "amount": 2,
+            "unit": "pkt"
+        }, {
+            "name": "Pilze",
+            "amount": 250,
+            "unit": "g"
+        }]
+    },
+    {
+        "name": "Tomate-Mozzarella",
+        "ingredients": [{
+            "name": "Tomaten",
+            "amount": 5,
+            "unit": "stk"
+        }, {
+            "name": "Mozzarella",
+            "amount": 5,
+            "unit": "stk"
+        }, {
+            "name": "Olivenöl",
+            "amount": 50,
+            "unit": "mL"
+        }, {
+            "name": "Ciabatta",
+            "amount": 1,
+            "unit": "stk"
+        }]
+    }
+]
